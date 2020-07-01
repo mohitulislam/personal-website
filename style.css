@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+}
+
+.pink-highlight{
+    font-size: 50px;
+    color: rgb(228, 84, 132);
+    font-weight: 800;
+}
+h1{
+    font-size: 50px;
+    line-height: 5px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    color: dimgrey;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+    padding-top: 10%;
+}
+
+.half-width img{
+
+    width: 80%;
+           
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, palevioletred, rgb(238, 38, 148) );
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+     }
+
+     .top-banner{
+        background-image:url("images/header-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    section{
+        height: 500px;
+        padding-bottom: 100px;
+    }
+
+
+    /* End of Section One */
+    .middle-banner{
+        background-image:url("images/biography-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-bottom: 200px;
+        margin-bottom: 200px;
+    }
+
+    .middle-second-part{
+        background-image:url("images/latest-work-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+         }
+
+         #section-biography{
+             height: 200px;
+         }
+
+    #latest-work h2{
+        text-align: center;
+    }
+    #images1{
+        width: 25%;
+        padding: 1px;
+            }
+    #images2{
+        width: 25%;
+        padding: 1px;
+            }
+    #images3{
+        width: 25%;
+        padding: 1px;
+            }
+
+    .middle-second-part{
+        width: 95%;
+    }
+
+    .footer-first h2{
+        text-align: center;
+        
+    }
+    .footer-first h3{
+        text-align: center;
+    }
+
+    .footer-first h4{
+        text-align: center;
+        font-size: 15px;
+        color: silver;
+    }
+
+    .footer-first p{
+        text-align: center;
+        color: black;
+        width: 50%;
+        margin: auto;
+    }
+
+    .footer-first{
+
+        margin-bottom: 50px;
+    }
+
+    .footer-button{
+        margin: auto;
+        text-align: center;
+        border: 1px solid red;
+        width: 500px;
+        height: 300ps;
+        background-color:rgb(224, 73, 124);
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+        padding-bottom: 20px;
+
+    } 
+
+    .footer-button h5{
+        font-size: 12px;
+        color: rgb(206, 203, 198);
+    }
+
+    .footer-part{
+        background-image:url("images/footer-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+
+    }
+
+    footer{
+        height: 500px;
+        padding-bottom: 50px;
+        margin-top: 100px;
+    }
