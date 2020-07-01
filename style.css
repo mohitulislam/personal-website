@@ -82,14 +82,17 @@ p{
     #images1{
         width: 25%;
         padding: 1px;
+        box-shadow: 10px 10px 40px gray;
             }
     #images2{
         width: 25%;
         padding: 1px;
+        box-shadow: 10px 10px 40px gray;
             }
     #images3{
         width: 25%;
         padding: 1px;
+        box-shadow: 10px 10px 40px gray;
             }
 
     .middle-second-part{
@@ -133,6 +136,7 @@ p{
         color: white;
         font-weight: 700;
         padding-bottom: 20px;
+        box-shadow: 10px 10px 40px gray;
 
     } 
 
